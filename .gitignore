@@ -1,0 +1,13 @@
+venv_mlops/
+__pycache__/
+*.pyc
+logs/
+#models/
+#data/
+
+# Ignore all CSVs
+#data/*.csv
+
+# But NOT DVC metadata files
+#!data/*.dvc
+/models
