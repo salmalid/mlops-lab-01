@@ -433,6 +433,8 @@ def main() -> None:
     print("Chargement et prétraitement des données terminés avec succès.")
 
 
+print("test DVC")
+
 
 
 if __name__ == "__main__":
