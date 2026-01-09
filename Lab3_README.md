@@ -27,4 +27,4 @@
 <img width="963" height="960" alt="etape 6" src="https://github.com/user-attachments/assets/da55fd01-3d0b-4ed9-a93d-1af51c80c238" />
 
 ## Étape 7 : Reproduire automatiquement tout le pipeline
-<img width="941" height="761" alt="etape 7" src="https://github.com/user-attachments/assets/77b09c54-6d0f-487b-99e8-0cbc59d45036" />
+<img width="942" height="172" alt="image" src="https://github.com/user-attachments/assets/0870d1f5-0de5-403c-85e4-94a2c0363bae" />
