@@ -29,6 +29,6 @@
 ## fix du message commit
 <img width="906" height="68" alt="image" src="https://github.com/user-attachments/assets/c410b821-e1c7-4761-a004-a3938aca1971" />
 
-
+## fix du message commit aussi
 ## Étape 7 : Reproduire automatiquement tout le pipeline
-<img width="942" height="172" alt="image" src="https://github.com/user-attachments/assets/0870d1f5-0de5-403c-85e4-94a2c0363bae" />
+<img width="947" height="743" alt="image" src="https://github.com/user-attachments/assets/292aac39-0e98-4af1-97ba-17738d0f6a50" />
