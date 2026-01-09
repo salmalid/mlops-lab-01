@@ -26,5 +26,9 @@
 ## Étape 6 : Création d’un pipeline reproductible dvc.yaml
 <img width="963" height="960" alt="etape 6" src="https://github.com/user-attachments/assets/da55fd01-3d0b-4ed9-a93d-1af51c80c238" />
 
+## fix du message commit
+<img width="906" height="68" alt="image" src="https://github.com/user-attachments/assets/c410b821-e1c7-4761-a004-a3938aca1971" />
+
+
 ## Étape 7 : Reproduire automatiquement tout le pipeline
 <img width="942" height="172" alt="image" src="https://github.com/user-attachments/assets/0870d1f5-0de5-403c-85e4-94a2c0363bae" />
